@@ -12,12 +12,11 @@ Entonces el sistema debe <sugerir trivias nuevas basadas en sus preferencias> al
 
 Examples: Datos de entrada
     | estudiante      | clickea en el apartado de preferencias | temas                | clickea sobre los iconos de los temas de su preferencia | aplicar cambios |
-    | Adrian Cevallos | True                                  | Diseño arquitectónico | True                                                   | True            |
+    | Adrian Cevallos | True                                   | Diseño arquitectónico | True                                                   | True            |
 
 Examples: Datos de salida
     | sugerir trivias basadas en preferencias |
     | Debido a tu interes por las trivias para el curso de Comprension y Produccion del lenguaje, te recomendamos estas trivias para el curso |
-    | Debido a tu interes por las trivias para el curso Diseño de bases de datos, te recomendamos estas trivias para el curso |
     | Debido a tu interes por las trivias para el curso Diseño de bases de datos, te recomendamos estas trivias para el curso |
 
 
